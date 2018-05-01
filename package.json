@@ -37,7 +37,8 @@
     "react": "*"
   },
   "dependencies": {
-    "lodash": "4.x.x"
+    "lodash": "4.x.x",
+    "react-native": "0.39.1"
   },
   "devDependencies": {
     "react-native": "0.38.0",
