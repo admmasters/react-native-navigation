@@ -10,7 +10,7 @@
     "e2e": "node ./scripts/e2e.ios.js"
   },
   "dependencies": {
-    "react-native": "0.38.0",
+    "react-native": "0.49.0",
     "react": "15.4.1",
     "react-native-navigation": "file:../"
   },
